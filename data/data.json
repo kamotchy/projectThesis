@@ -1,0 +1,479 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "idNumber": "100000001",
+      "name": "Cristopher Abalorio",
+      "email": "Cristopher.Abalorio@aclcbutuan.edu.ph"
+    },
+    {
+      "id": 2,
+      "idNumber": "100000002",
+      "name": "Joshua Caalim",
+      "email": "Joshua.Caalim@aclcbutuan.edu.ph"
+    },
+    {
+      "id": 3,
+      "idNumber": "100000003",
+      "name": "Joel Trillo",
+      "email": "Joel.Trillo@aclcbutuan.edu.ph"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "idNumber": "19001468800",
+      "name": "Jhoniel Villacura",
+      "email": "jhoniel.villacura@aclcbutuan.edu.ph",
+      "gradeLevel": 12
+    },
+    {
+      "id": 2,
+      "idNumber": "19001468801",
+      "name": "Mark Laurence Mejo",
+      "email": "mark.laurence.mejo@aclcbutuan.edu.ph",
+      "gradeLevel": 12
+    },
+    {
+      "id": 3,
+      "idNumber": "19001468802",
+      "name": "Junzel Dela Torre",
+      "email": "junzel.dela.torre@aclcbutuan.edu.ph",
+      "gradeLevel": 12
+    }
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "level": "Grade 1",
+      "section": "Rizal",
+      "adviser": "Joshua Caalim",
+      "students": [
+        {
+          "id": 1,
+          "name": "John Dela Cruz"
+        },
+        {
+          "id": 2,
+          "name": "Mark Kamote"
+        },
+        {
+          "id": 3,
+          "name": "Junzel Array"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Villar"
+        },
+        {
+          "id": 5,
+          "name": "John Doe"
+        },
+        {
+          "id": 6,
+          "name": "John Clay"
+        },
+        {
+          "id": 7,
+          "name": "Johnny Sins"
+        },
+        {
+          "id": 8,
+          "name": "Maria Teresa"
+        },
+        {
+          "id": 9,
+          "name": "Lilia Contapay"
+        },
+        {
+          "id": 10,
+          "name": "Kimbery Lapu Lapu"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "level": "Grade 1",
+      "section": "Bonifacio",
+      "adviser": "Joel Trillo",
+      "students": [
+        {
+          "id": 1,
+          "name": "John Dela Cruz"
+        },
+        {
+          "id": 2,
+          "name": "Mark Kamote"
+        },
+        {
+          "id": 3,
+          "name": "Junzel Array"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Villar"
+        },
+        {
+          "id": 5,
+          "name": "John Doe"
+        },
+        {
+          "id": 6,
+          "name": "John Clay"
+        },
+        {
+          "id": 7,
+          "name": "Johnny Sins"
+        },
+        {
+          "id": 8,
+          "name": "Maria Teresa"
+        },
+        {
+          "id": 9,
+          "name": "Lilia Contapay"
+        },
+        {
+          "id": 10,
+          "name": "Kimbery Lapu Lapu"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "level": "Grade 1",
+      "section": "Luna",
+      "adviser": "Cristopher Abalorio",
+      "students": [
+        {
+          "id": 1,
+          "name": "John Dela Cruz"
+        },
+        {
+          "id": 2,
+          "name": "Mark Kamote"
+        },
+        {
+          "id": 3,
+          "name": "Junzel Array"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Villar"
+        },
+        {
+          "id": 5,
+          "name": "John Doe"
+        },
+        {
+          "id": 6,
+          "name": "John Clay"
+        },
+        {
+          "id": 7,
+          "name": "Johnny Sins"
+        },
+        {
+          "id": 8,
+          "name": "Maria Teresa"
+        },
+        {
+          "id": 9,
+          "name": "Lilia Contapay"
+        },
+        {
+          "id": 10,
+          "name": "Kimbery Lapu Lapu"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "level": "Grade 2",
+      "section": "Moon",
+      "adviser": "Joshua Caalim",
+      "students": [
+        {
+          "id": 1,
+          "name": "John Dela Cruz"
+        },
+        {
+          "id": 2,
+          "name": "Mark Kamote"
+        },
+        {
+          "id": 3,
+          "name": "Junzel Array"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Villar"
+        },
+        {
+          "id": 5,
+          "name": "John Doe"
+        },
+        {
+          "id": 6,
+          "name": "John Clay"
+        },
+        {
+          "id": 7,
+          "name": "Johnny Sins"
+        },
+        {
+          "id": 8,
+          "name": "Maria Teresa"
+        },
+        {
+          "id": 9,
+          "name": "Lilia Contapay"
+        },
+        {
+          "id": 10,
+          "name": "Kimbery Lapu Lapu"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "level": "Grade 2",
+      "section": "Sun",
+      "adviser": "Joel Trillo",
+      "students": [
+        {
+          "id": 1,
+          "name": "John Dela Cruz"
+        },
+        {
+          "id": 2,
+          "name": "Mark Kamote"
+        },
+        {
+          "id": 3,
+          "name": "Junzel Array"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Villar"
+        },
+        {
+          "id": 5,
+          "name": "John Doe"
+        },
+        {
+          "id": 6,
+          "name": "John Clay"
+        },
+        {
+          "id": 7,
+          "name": "Johnny Sins"
+        },
+        {
+          "id": 8,
+          "name": "Maria Teresa"
+        },
+        {
+          "id": 9,
+          "name": "Lilia Contapay"
+        },
+        {
+          "id": 10,
+          "name": "Kimbery Lapu Lapu"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "level": "Grade 2",
+      "section": "Earth",
+      "adviser": "Cristopher Abalorio",
+      "students": [
+        {
+          "id": 1,
+          "name": "John Dela Cruz"
+        },
+        {
+          "id": 2,
+          "name": "Mark Kamote"
+        },
+        {
+          "id": 3,
+          "name": "Junzel Array"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Villar"
+        },
+        {
+          "id": 5,
+          "name": "John Doe"
+        },
+        {
+          "id": 6,
+          "name": "John Clay"
+        },
+        {
+          "id": 7,
+          "name": "Johnny Sins"
+        },
+        {
+          "id": 8,
+          "name": "Maria Teresa"
+        },
+        {
+          "id": 9,
+          "name": "Lilia Contapay"
+        },
+        {
+          "id": 10,
+          "name": "Kimbery Lapu Lapu"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "level": "Grade 3",
+      "section": "Oten",
+      "adviser": "Joshua Caalim",
+      "students": [
+        {
+          "id": 1,
+          "name": "John Dela Cruz"
+        },
+        {
+          "id": 2,
+          "name": "Mark Kamote"
+        },
+        {
+          "id": 3,
+          "name": "Junzel Array"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Villar"
+        },
+        {
+          "id": 5,
+          "name": "John Doe"
+        },
+        {
+          "id": 6,
+          "name": "John Clay"
+        },
+        {
+          "id": 7,
+          "name": "Johnny Sins"
+        },
+        {
+          "id": 8,
+          "name": "Maria Teresa"
+        },
+        {
+          "id": 9,
+          "name": "Lilia Contapay"
+        },
+        {
+          "id": 10,
+          "name": "Kimbery Lapu Lapu"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "level": "Grade 3",
+      "section": "Bilat",
+      "adviser": "Joel Trillo",
+      "students": [
+        {
+          "id": 1,
+          "name": "John Dela Cruz"
+        },
+        {
+          "id": 2,
+          "name": "Mark Kamote"
+        },
+        {
+          "id": 3,
+          "name": "Junzel Array"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Villar"
+        },
+        {
+          "id": 5,
+          "name": "John Doe"
+        },
+        {
+          "id": 6,
+          "name": "John Clay"
+        },
+        {
+          "id": 7,
+          "name": "Johnny Sins"
+        },
+        {
+          "id": 8,
+          "name": "Maria Teresa"
+        },
+        {
+          "id": 9,
+          "name": "Lilia Contapay"
+        },
+        {
+          "id": 10,
+          "name": "Kimbery Lapu Lapu"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "level": "Grade 3",
+      "section": "Itlog",
+      "adviser": "Cristopher Abalorio",
+      "students": [
+        {
+          "id": 1,
+          "name": "John Dela Cruz"
+        },
+        {
+          "id": 2,
+          "name": "Mark Kamote"
+        },
+        {
+          "id": 3,
+          "name": "Junzel Array"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Villar"
+        },
+        {
+          "id": 5,
+          "name": "John Doe"
+        },
+        {
+          "id": 6,
+          "name": "John Clay"
+        },
+        {
+          "id": 7,
+          "name": "Johnny Sins"
+        },
+        {
+          "id": 8,
+          "name": "Maria Teresa"
+        },
+        {
+          "id": 9,
+          "name": "Lilia Contapay"
+        },
+        {
+          "id": 10,
+          "name": "Kimbery Lapu Lapu"
+        }
+      ]
+    }
+  ]
+}

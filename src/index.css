@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .sidebar-container {
+    @apply overflow-hidden left-0 top-0 h-screen w-[3.5rem] hover:w-56 hover:transition-all hover:duration-300 duration-300 bg-slate-700;
+  }
+  .sidebar-items {
+    @apply flex items-center p-4 mt-2 cursor-pointer text-white hover:bg-slate-300 hover:text-black  transition-all duration-75;
+  }
+  .sidebar-items.active {
+    @apply font-bold bg-slate-700 text-white;
+  }
+  .data-items {
+    @apply inline-block border-b-2 border-transparent hover:border-slate-700 duration-300 pb-2;
+  }
+  .data-items a.active {
+    @apply font-bold border-b-2 border-slate-700 pb-2;
+  }
+  .accounts {
+    @apply border-b-2 pt-5 px-3 ml-5 flex flex-row list-none space-x-10;
+  }
+  .account-items {
+    @apply inline-block border-b-2 border-transparent hover:border-slate-700 duration-300 py-3;
+  }
+  .activeData {
+    @apply font-bold border-b-2 border-slate-700 py-3;
+  }
+  table {
+    @apply table-auto border-spacing-2 w-full pb-4;
+  }
+  th,
+  td {
+    @apply text-start border-b px-3 py-4 border-slate-300 overflow-hidden;
+  }
+}
