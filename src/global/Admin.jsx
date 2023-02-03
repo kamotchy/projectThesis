@@ -1,7 +1,5 @@
 // main menu
 import Dashboard from "../pages/admin/Dashboard";
-import Data from "../pages/admin/Data";
-import Create from "../pages/admin/Create";
 import Activity from "../pages/admin/Activity";
 
 // sub menu Data

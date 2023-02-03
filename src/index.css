@@ -34,4 +34,14 @@
   td {
     @apply text-start border-b px-3 py-4 border-slate-300 overflow-hidden;
   }
+
+  .create-layout {
+    @apply flex flex-col items-start p-10 space-y-5 grid;
+  }
+  .create-items {
+    @apply inline-block border-b-2 border-transparent hover:border-slate-700 duration-300 py-3;
+  }
+  .create-items a.active {
+    @apply font-bold border-b-2 border-slate-700 pb-2;
+  }
 }
